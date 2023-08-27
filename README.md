@@ -2,7 +2,7 @@
 
 ## ToDo
 
-- [ ] make args for tui
+- [x] make args for tui
 - [ ] make gui
 
 ## Run
